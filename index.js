@@ -8,7 +8,7 @@ function happyHolidaysTo(){
   return `Happy holidays, ${name}!`
 }
 
-function happyHolidaysTo(){
+function happyHolidayTo(){
   var holiday = "Birthday";
   var name = "Nina"
 return `Happy ${holiday}, ${name}!`
